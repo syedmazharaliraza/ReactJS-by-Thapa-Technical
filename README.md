@@ -18,11 +18,11 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 14: JSX Attributes
 * [x] ReactJS Video lecture 15: CSS styling and importing
 * [x] ReactJS Video lecture 16: Using Google fonts
-* [x] ReactJS Video lecture 17: Internal and Inline CSS
+* [x] ReactJS Video lecture 17: Internal and Inline CSS in ReactJS
 * [x] ReactJS Video lecture 18: Simple Greeting website
-* [x] ReactJS Video lecture 19: Components
+* [x] ReactJS Video lecture 19: Components in ReactJS
 * [x] ReactJS Video lecture 20: Rewriting greeting website using components
-* [x] ReactJS Video lecture 21: Import and Export in React
+* [x] ReactJS Video lecture 21: Import and Export in ReactJS
 * [x] ReactJS Video lecture 22: Simple Calculator React App
 * [x] ReactJS Video lecture 23: Props in ReactJS
 * [x] ReactJS Video lecture 24: Arrays in Javascript
@@ -30,8 +30,8 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 26: Top 5 Series App using props, SData, and Array Map
 * [x] ReactJS Video lecture 27: JavaScript Array Map Method
 * [x] ReactJS Video lecture 28: React Developer Tools
-* [x] ReactJS Video lecture 29: If-else statement in React
-* [x] ReactJS Video lecture 30: Conditional Operator in React
+* [x] ReactJS Video lecture 29: If-else statement in ReactJS
+* [x] ReactJS Video lecture 30: Conditional Operator in ReactJS
 * [x] ReactJS Video lecture 31: Simple Slot Machine Game 
 * [x] ReactJS Video lecture 32: Bonus: How to add emojis in VSCode
 * [x] ReactJS Video lecture 33: Hooks in ReactJS
