@@ -44,6 +44,6 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 40: Multiple input form
 * [x] ReactJS Video lecture 41: Spread Operator
 * [x] ReactJS Video lecture 42: Rewriting multiple input form code using spread operator
-* [ ] ReactJS Video lecture 43: To-do list React app
+* [x] ReactJS Video lecture 43: To-do list React app
 * [ ] ReactJS Video lecture 44: Increment and Decrement State Variable on Button-click
 * [ ] ReactJS Video lecture 45: How to use material UI icons in React app
