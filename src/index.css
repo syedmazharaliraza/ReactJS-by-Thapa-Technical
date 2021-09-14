@@ -156,7 +156,8 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 5px 5px 15px -5px rgb(0, 0, 0.1);
 }
 
 .ToDoHeading {
@@ -199,7 +200,7 @@ body {
 }
 
 .list {
-    margin-top: 30px; 
+    margin-top: 30px;
 }
 
 .list li {
@@ -207,6 +208,7 @@ body {
     text-align: left;
     font-size: 20px;
     height: 40px;
+    width: 190px;
     display: flex;
     align-items: center;
     color: black;
@@ -214,17 +216,19 @@ body {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
 }
+
 .listItem {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
 }
+
 .deleteButton {
     height: 20px;
     width: 20px;
     border-radius: 50%;
     background-color: #63a4ff;
-    color: #fff; 
+    color: #fff;
     font-size: 10px;
     border: none;
     margin: 0 15px 0 35px;
@@ -255,5 +259,8 @@ body {
     }
     .deleteButton {
         margin: 0 10px 0 0;
+    }
+    .list li {
+        width: 125px;
     }
 }
