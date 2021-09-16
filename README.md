@@ -47,4 +47,8 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 43: To-do list React app
 * [x] ReactJS Video lecture 44: Increment and Decrement State Variable on Button-click
 * [x] ReactJS Video lecture 45: How to use material UI icons in React app
-* [x] ReactJS Video lecture 45: How to use material UI core in React app
+* [x] ReactJS Video lecture 46: How to use material UI core in React app
+* [ ] ReactJS Video lecture 47: NPM (Node Package Manager)
+* [ ] ReactJS Video lecture 48: ToDo List React project using MUI
+* [ ] ReactJS Video lecture 49: Run React App in VS Code inbuilt terminal
+* [ ] ReactJS Video lecture 50: Install and use Bootstrap 4 in ReactJS
