@@ -43,13 +43,13 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 39: Handling complex, multiple input form state
 * [x] ReactJS Video lecture 40: Multiple input form
 * [x] ReactJS Video lecture 41: Spread Operator
-* [ ] ReactJS Video lecture 42: Rewriting multiple input form code using spread operator
+* [x] ReactJS Video lecture 42: Rewriting multiple input form code using spread operator
 * [x] ReactJS Video lecture 43: To-do list React app
 * [x] ReactJS Video lecture 44: Increment and Decrement State Variable on Button-click
 * [x] ReactJS Video lecture 45: How to use material UI icons in React app
 * [x] ReactJS Video lecture 46: How to use material UI core in React app
 * [x] ReactJS Video lecture 47: NPM (Node Package Manager)
-* [x] ReactJS Video lecture 48: ToDo List React project using MUI
+* [ ] ReactJS Video lecture 48: ToDo List React project using MUI
 * [x] ReactJS Video lecture 49: Run React App in VS Code inbuilt terminal
 * [x] ReactJS Video lecture 50: Install and use Bootstrap 4 in ReactJS
 * [x] ReactJS Video lecture 51: React Bootstrap Autocomplete Extension in VS Code
