@@ -53,6 +53,6 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 49: Run React App in VS Code inbuilt terminal
 * [x] ReactJS Video lecture 50: Install and use Bootstrap 4 in ReactJS
 * [x] ReactJS Video lecture 51: React Bootstrap Autocomplete Extension in VS Code
-* [ ] ReactJS Video lecture 52: Create accordion using ReactJS
+* [x] ReactJS Video lecture 52: Create accordion using ReactJS
 * [ ] ReactJS Video lecture 53: Creating React webpage in 1 minute
 * [ ] ReactJS Video lecture 54: Google Keep App clone using ReactJS
