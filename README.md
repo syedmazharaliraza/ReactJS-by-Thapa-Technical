@@ -32,7 +32,7 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 28: React Developer Tools
 * [x] ReactJS Video lecture 29: If-else statement in ReactJS
 * [x] ReactJS Video lecture 30: Conditional Operator in ReactJS
-* [x] ReactJS Video lecture 31: Simple Slot Machine Game 
+* [ ] ReactJS Video lecture 31: Simple Slot Machine Game 
 * [x] ReactJS Video lecture 32: Bonus: How to add emojis in VSCode
 * [x] ReactJS Video lecture 33: Hooks in ReactJS
 * [x] ReactJS Video lecture 34: Update time on button-click React app using hooks
@@ -43,12 +43,16 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 39: Handling complex, multiple input form state
 * [x] ReactJS Video lecture 40: Multiple input form
 * [x] ReactJS Video lecture 41: Spread Operator
-* [x] ReactJS Video lecture 42: Rewriting multiple input form code using spread operator
+* [ ] ReactJS Video lecture 42: Rewriting multiple input form code using spread operator
 * [x] ReactJS Video lecture 43: To-do list React app
 * [x] ReactJS Video lecture 44: Increment and Decrement State Variable on Button-click
 * [x] ReactJS Video lecture 45: How to use material UI icons in React app
 * [x] ReactJS Video lecture 46: How to use material UI core in React app
 * [x] ReactJS Video lecture 47: NPM (Node Package Manager)
 * [x] ReactJS Video lecture 48: ToDo List React project using MUI
-* [ ] ReactJS Video lecture 49: Run React App in VS Code inbuilt terminal
-* [ ] ReactJS Video lecture 50: Install and use Bootstrap 4 in ReactJS
+* [x] ReactJS Video lecture 49: Run React App in VS Code inbuilt terminal
+* [x] ReactJS Video lecture 50: Install and use Bootstrap 4 in ReactJS
+* [x] ReactJS Video lecture 51: React Bootstrap Autocomplete Extension in VS Code
+* [ ] ReactJS Video lecture 52: Create accordion using ReactJS
+* [ ] ReactJS Video lecture 53: Creating React webpage in 1 minute
+* [ ] ReactJS Video lecture 54: Google Keep App clone using ReactJS
