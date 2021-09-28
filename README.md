@@ -55,4 +55,4 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 51: React Bootstrap Autocomplete Extension in VS Code
 * [x] ReactJS Video lecture 52: Create accordion using ReactJS
 * [x] ReactJS Video lecture 53: Creating React webpage in 1 minute
-* [ ] ReactJS Video lecture 54: Google Keep App clone using ReactJS
+* [x] ReactJS Video lecture 54: Note taking app using ReactJS
