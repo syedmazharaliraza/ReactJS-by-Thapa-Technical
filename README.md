@@ -56,3 +56,9 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 52: Create accordion using ReactJS
 * [x] ReactJS Video lecture 53: Creating React webpage in 1 minute
 * [x] ReactJS Video lecture 54: Note taking app using ReactJS
+* [x] ReactJS Video lecture 55: Context API in ReactJS
+* [x] ReactJS Video lecture 56: useContext Hooks in ReactJS
+* [x] ReactJS Video lecture 57: useEffect Hooks in ReactJS
+* [x] ReactJS Video lecture 58: Changing webpage title on click using useEffect
+* [ ] ReactJS Video lecture 59: Covid19 Statewise tracker using real API (added later)
+* [ ] ReactJS Video lecture 60: React API Call to Get Pokemon JSON Data using Axios and useEffect
