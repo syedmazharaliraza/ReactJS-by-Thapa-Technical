@@ -1,5 +1,5 @@
 import React from "react";
-import { Fword, Lword } from "../App15";
+import { Fword, Lword } from "../../src/App15";
 function Comp1() {
     return (
         <>

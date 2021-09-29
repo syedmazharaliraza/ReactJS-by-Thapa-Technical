@@ -1,5 +1,5 @@
 import React, { createContext, useState,useEffect  } from "react";
-import Comp1 from "./components/Comp1";
+import Comp1 from "./Comp1";
 import Comp2 from "./components/Comp2";
 const Fword = createContext();
 const Lword = createContext();
