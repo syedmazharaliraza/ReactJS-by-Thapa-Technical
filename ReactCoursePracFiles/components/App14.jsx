@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid'
 import "./index.css";
 import SearchBar from "./components/SearchBar";
 
-function App() {
+function App14() {
     const [notes, setNotes] = useState([
     ]);
     
@@ -36,4 +36,4 @@ function App() {
     );
 }
 
-export default App;
+export default App14;
