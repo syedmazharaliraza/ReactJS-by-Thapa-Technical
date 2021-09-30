@@ -61,4 +61,4 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 57: useEffect Hooks in ReactJS
 * [x] ReactJS Video lecture 58: Changing webpage title on click using useEffect
 * [ ] ReactJS Video lecture 59: Covid19 Statewise tracker using real API (added later)
-* [ ] ReactJS Video lecture 60: React API Call to Get Pokemon JSON Data using Axios and useEffect
+* [x] ReactJS Video lecture 60: React API Call to Get Pokemon JSON Data using Axios and useEffect
