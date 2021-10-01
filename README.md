@@ -62,3 +62,6 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 58: Changing webpage title on click using useEffect
 * [ ] ReactJS Video lecture 59: Covid19 Statewise tracker using real API (added later)
 * [x] ReactJS Video lecture 60: React API Call to Get Pokemon JSON Data using Axios and useEffect
+* [x] ReactJS Video lecture 61: React Router DOM
+* [x] ReactJS Video lecture 62: React Navbar/Menu using React Router 
+* [x] ReactJS Video lecture 63: React Navbar/Menu using React Router 
