@@ -69,3 +69,4 @@ This repository keeps a track of my daily ReactJS practice<br>
 * [x] ReactJS Video lecture 65: React Route Render Method
 * [x] ReactJS Video lecture 66: React Navbar/Menu using React Router 
 * [x] ReactJS Video lecture 67: Router useParam's hooks
+* [x] ReactJS Video lecture 68: useLocation hooks in ReactJS
