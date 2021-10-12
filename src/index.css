@@ -267,7 +267,7 @@ To Do App (React43)
 
 */
 
-body {
+/* body {
     margin: 0;
     font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -367,4 +367,25 @@ textarea:focus {
 
 .search input:focus {
     outline: none;
+} */
+
+/* Expense tracker */
+* {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+body {
+    background-color: #E4E4E4;
+}
+
+.nav-wallet {
+    font-weight: 100;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+.app-bar {
+    background-color: #fff;
 }
